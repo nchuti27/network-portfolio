@@ -27,6 +27,7 @@
 Portfolio นี้รวบรวมงานทั้งหมดจากวิชาเครือข่ายคอมพิวเตอร์ ซึ่งประกอบด้วย Lab จากการทดลองใน Cisco Packet Tracer และ Assignment ที่เกี่ยวข้องกับการวิเคราะห์โปรโตคอลในระดับต่างๆ ของ OSI Model ตั้งแต่ชั้น Physical ไปจนถึง Application Layer
 
 ---
+![Getting_Started_with_Cisco_Packet_Tracer_certificate_chutinan-m-kkumail-com_2736423f-3d0d-492a-b880-e9b6c21462d3_page-0001](https://github.com/user-attachments/assets/71c85e50-27e5-45c1-bcdd-ee3e422c7d15)
 
 
 ##  Labs
