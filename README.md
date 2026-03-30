@@ -218,7 +218,7 @@ Link : https://drive.google.com/file/d/1cZRbwa-v8TqriHUAmvcD2EewrQ8xrdy3/view?us
 | ServerA | eth0 | 192.168.10.10 | Microservices A |
 | ServerB | eth0 | 192.168.20.10 | Microservices B |
 
-**การตั้งค่าหลัก — R1 (Internet Edge Router):**
+**การตั้งค่าหลัก  R1 (Internet Edge Router):**
 ```
 interface g0/0
  ip address dhcp
@@ -238,7 +238,7 @@ access-list 10 permit 192.168.10.0 0.0.0.255
 ip nat inside source list 10 interface g0/0 overload
 ```
 
-**การตั้งค่าหลัก — R2 (Branch Router):**
+**การตั้งค่าหลัก  R2 (Branch Router):**
 ```
 interface g0/1
  ip address 192.168.20.1 255.255.255.0
@@ -250,7 +250,7 @@ ip route 192.168.10.0 255.255.255.0 100.10.10.1
 ip route 0.0.0.0 0.0.0.0 100.10.10.1
 ```
 
-**ผลการทดสอบ (Part 3 — WAN + Internet Testing):**
+**ผลการทดสอบ (Part 3  WAN + Internet Testing):**
 
 | การทดสอบจาก LAN A | ปลายทาง | ผล |
 |---|---|---|
@@ -319,7 +319,7 @@ Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 
 > **เป้าหมาย:** วิเคราะห์โปรโตคอล HTTP, FTP, DNS, SMTP, POP3 ผ่าน Simulation Mode ใน Packet Tracer
 
-**ส่วนที่ 1 — HTTP & TCP (3-Way Handshake)**
+**ส่วนที่ 1  HTTP & TCP (3-Way Handshake)**
 
 กระบวนการเชื่อมต่อไปยัง Server `192.168.1.254`:
 
@@ -329,15 +329,15 @@ Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 | 1.4 | SYN-ACK | SYN=1, ACK=1 | Server ยืนยันและเชื่อมกลับ |
 | 1.5 | ACK | SYN=0, ACK=1 | Client ยืนยัน → ESTABLISHED |
 
-**ส่วนที่ 2 — FTP Protocol**
+**ส่วนที่ 2  FTP Protocol**
 - แยก Control Connection (Port 21) และ Data Connection (Port 20)
 - FTP ใช้ TCP เพราะต้องการ Command Accuracy สูง ป้องกันคำสั่งหายระหว่างทาง
 
-**ส่วนที่ 3 — DNS & UDP**
+**ส่วนที่ 3  DNS & UDP**
 - DNS ใช้ UDP (Port 53) เพราะต้องการความเร็ว ไม่ต้องรอ Handshake
 - UDP Header เรียบง่ายกว่า TCP มาก: Source Port, Destination Port, Length, Checksum เท่านั้น
 
-**ส่วนที่ 4 — Email (SMTP & POP3)**
+**ส่วนที่ 4  Email (SMTP & POP3)**
 - SMTP (Port 25) — ส่งออกอีเมล
 - POP3 (Port 110) — ดึงอีเมลเข้าเครื่อง
 - ทั้งคู่ทำงานบน TCP เพราะอีเมลเป็นข้อมูลที่ห้ามสูญหาย
