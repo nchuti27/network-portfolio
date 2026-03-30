@@ -304,7 +304,7 @@ Link : https://drive.google.com/file/d/1BWXt8865c5n4iJ7l5Pc_LoJENjWS8RUB/view
 
 ### Assignment 3 — Not Simple Network (Packet Tracer)
 
-Link : https://drive.google.com/file/d/1725UkRTYoRmOFG2pYsz6EGMVszRWnrdQ/view
+ไฟล์ Packet Tracer: : https://drive.google.com/file/d/1725UkRTYoRmOFG2pYsz6EGMVszRWnrdQ/view
 
 **สิ่งที่ทำ:**
 - ออกแบบเครือข่ายที่มีหลาย Subnet
