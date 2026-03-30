@@ -1,6 +1,6 @@
 # network portfolio
 
-> **นางสาวชุตินันท์ หมายสุข** · รหัสนักศึกษา 673380401-6 · Section 03
+> **นางสาวชุตินันท์ หมายสุข**  รหัสนักศึกษา 673380401-6  Section 03
 
 ---
 
@@ -355,4 +355,4 @@ Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 
 
 
-*นางสาวชุตินันท์ หมายสุข · 673380401-6 · Section 03*
+*นางสาวชุตินันท์ หมายสุข  673380401-6  Section 03*
