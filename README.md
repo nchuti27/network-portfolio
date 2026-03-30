@@ -179,7 +179,7 @@ ip nat inside source list 10 interface g0/0 overload
 
 **อุปกรณ์ที่ใช้:**
 - Router 2901 x2 (R1, R2), Switch 2960 x2, PC x2, Cloud (Internet)
-- Serial Link (สายสีแดง) เชื่อม R1 ↔ R2 ผ่าน ISP Network
+- Serial Link เชื่อม R1 และ R2 ผ่าน ISP Network
 
 **Topology:**
 ```
@@ -264,6 +264,8 @@ ip route 0.0.0.0 0.0.0.0 100.10.10.1
 ##  Assignments
 
 ### Assignment 1 — Essay: เครือข่ายในชีวิตประจำวัน
+
+Link https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=sharing
 
 > **หัวข้อ:** เครือข่ายคอมพิวเตอร์ที่ฉันรู้จักในชีวิตประจำวัน
 
