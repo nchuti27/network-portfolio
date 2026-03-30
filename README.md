@@ -18,7 +18,7 @@
   - [Assignment 2 — Topology: ประเภทของเครือข่าย](#assignment-2--topology-ประเภทของเครือข่าย)
   - [Assignment 3 — Not Simple Network (Packet Tracer)](#assignment-3--not-simple-network-packet-tracer)
   - [Assignment 4 — TCP/UDP Protocol Analysis](#assignment-4--tcpudp-protocol-analysis)
-- [สิ่งที่ได้เรียนรู้ตลอดภาคการศึกษา](#-สิ่งที่ได้เรียนรู้ตลอดภาคการศึกษา)
+
 
 ---
 
