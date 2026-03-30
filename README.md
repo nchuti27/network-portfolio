@@ -296,9 +296,9 @@ Link : https://drive.google.com/file/d/1BWXt8865c5n4iJ7l5Pc_LoJENjWS8RUB/view
 
 | คำถาม | คำตอบ |
 |---|---|
-| เครือข่ายที่เล็กที่สุดคืออะไร? | Peer-to-Peer (P2P) — PC 2 เครื่องเชื่อมโดยตรง ไม่ต้องใช้ Switch หรือ Router |
+| เครือข่ายที่เล็กที่สุดคืออะไร? | Peer-to-Peer (P2P)  PC 2 เครื่องเชื่อมโดยตรง ไม่ต้องใช้ Switch หรือ Router |
 | เครือข่ายที่ต้องใช้ Switch? | LAN ที่มีอุปกรณ์ตั้งแต่ 3 เครื่องขึ้นไป |
-| เครือข่ายที่ต้องใช้ Router? | Internetwork — เชื่อม LAN หลายวงเข้าด้วยกัน Router ทำหน้าที่เป็น Default Gateway |
+| เครือข่ายที่ต้องใช้ Router? | Internetwork  เชื่อม LAN หลายวงเข้าด้วยกัน Router ทำหน้าที่เป็น Default Gateway |
 
 ---
 
