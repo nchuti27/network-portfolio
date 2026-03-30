@@ -7,6 +7,7 @@
 ## สารบัญ
 
 - [เกี่ยวกับ Portfolio นี้](#-เกี่ยวกับ-portfolio-นี้)
+- [Certificate](#-Certificate)
 - [Labs](#-labs)
   - [Lab 1 — Basic Network & Protocol Analysis](#lab-1--basic-network--protocol-analysis)
   - [Lab 2 — Secure & Scalable VLAN Design](#lab-2--secure--scalable-vlan-design-router-on-a-stick)
