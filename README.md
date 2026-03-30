@@ -1,4 +1,4 @@
-# network portfolio
+# Network Portfolio
 
 > **นางสาวชุตินันท์ หมายสุข**  รหัสนักศึกษา 673380401-6  Section 03
 
