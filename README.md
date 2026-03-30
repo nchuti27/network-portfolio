@@ -306,8 +306,6 @@ Link : https://drive.google.com/file/d/1BWXt8865c5n4iJ7l5Pc_LoJENjWS8RUB/view
 
 Link : https://drive.google.com/file/d/1725UkRTYoRmOFG2pYsz6EGMVszRWnrdQ/view
 
-> **เป้าหมาย:** สร้างเครือข่ายขนาดใหญ่ขึ้นใน Cisco Packet Tracer ที่มีความซับซ้อนกว่า Lab พื้นฐาน
-
 **สิ่งที่ทำ:**
 - ออกแบบเครือข่ายที่มีหลาย Subnet
 - กำหนดค่า Routing ระหว่าง Network
