@@ -265,7 +265,7 @@ ip route 0.0.0.0 0.0.0.0 100.10.10.1
 
 ### Assignment 1 — Essay: เครือข่ายในชีวิตประจำวัน
 
-Link https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=sharing
+Link : https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=sharing
 
 > **หัวข้อ:** เครือข่ายคอมพิวเตอร์ที่ฉันรู้จักในชีวิตประจำวัน
 
@@ -280,6 +280,8 @@ Link https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=
 
 ### Assignment 2 — Topology: ประเภทของเครือข่าย
 
+Link : https://drive.google.com/file/d/1BWXt8865c5n4iJ7l5Pc_LoJENjWS8RUB/view
+
 > **เป้าหมาย:** ตอบคำถามและสร้าง Topology จำลองใน Cisco Packet Tracer แสดงเครือข่าย 3 ประเภท
 
 | คำถาม | คำตอบ |
@@ -291,6 +293,8 @@ Link https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=
 ---
 
 ### Assignment 3 — Not Simple Network (Packet Tracer)
+
+Link : https://drive.google.com/file/d/1725UkRTYoRmOFG2pYsz6EGMVszRWnrdQ/view
 
 > **เป้าหมาย:** สร้างเครือข่ายขนาดใหญ่ขึ้นใน Cisco Packet Tracer ที่มีความซับซ้อนกว่า Lab พื้นฐาน
 
@@ -304,6 +308,8 @@ Link https://drive.google.com/file/d/16BcE13rGaGPeExPH7gVSrU6eABGPX_OJ/view?usp=
 ---
 
 ### Assignment 4 — TCP/UDP Protocol Analysis
+
+Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 
 > **เป้าหมาย:** วิเคราะห์โปรโตคอล HTTP, FTP, DNS, SMTP, POP3 ผ่าน Simulation Mode ใน Packet Tracer
 
