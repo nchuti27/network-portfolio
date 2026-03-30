@@ -319,7 +319,7 @@ Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 
 > **เป้าหมาย:** วิเคราะห์โปรโตคอล HTTP, FTP, DNS, SMTP, POP3 ผ่าน Simulation Mode ใน Packet Tracer
 
-**ส่วนที่ 1  HTTP & TCP (3-Way Handshake)**
+**ส่วนที่ 1  HTTP & TCP (3 Way Handshake)**
 
 กระบวนการเชื่อมต่อไปยัง Server `192.168.1.254`:
 
@@ -338,8 +338,8 @@ Link : https://drive.google.com/file/d/1hgN-D5-xTbXnFmYQYGaEt3DRXDHnCkAm/view
 - UDP Header เรียบง่ายกว่า TCP มาก: Source Port, Destination Port, Length, Checksum เท่านั้น
 
 **ส่วนที่ 4  Email (SMTP & POP3)**
-- SMTP (Port 25) — ส่งออกอีเมล
-- POP3 (Port 110) — ดึงอีเมลเข้าเครื่อง
+- SMTP (Port 25)  ส่งออกอีเมล
+- POP3 (Port 110)  ดึงอีเมลเข้าเครื่อง
 - ทั้งคู่ทำงานบน TCP เพราะอีเมลเป็นข้อมูลที่ห้ามสูญหาย
 
 **บทสรุปเปรียบเทียบ TCP vs UDP:**
